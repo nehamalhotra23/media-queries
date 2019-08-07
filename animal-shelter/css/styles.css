@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  font-weight: 200;
+}
+
+h2 {
+
+}
+
+p {
+  font-style: italic;
+
+}
+.giraffe {
+  border-style: solid;
+  padding: 10px;
+  border-color: blue;
+  margin: 20px;
+  float: right;
+}
+.cats {
+  border-style: solid;
+  padding: 10px;
+  border-color: blue;
+  margin: 20px;
+  float: right;
+}
+.dogs {
+  border-style: solid;
+  padding: 10px;
+  border-color: blue;
+  margin: 20px;
+
+
+}
